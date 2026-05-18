@@ -1,21 +1,138 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Data analytics projects using SQL, Power BI, Excel, and Python, focusing on dashboards and business insights.<br><br>👯 I’m looking to collaborate on<br><br>Data analysis, dashboarding, and BI projects where insights can drive real business decisions.<br><br>🤝 I’m looking for help with<br><br>Improving advanced Power BI (DAX), data modeling, and real-world analytics use cases.<br><br>🌱 I’m currently learning<br><br>Advanced SQL, Power BI DAX, Python for data analysis, and data storytelling techniques.<br><br>💬 Ask me about<br><br>SQL queries, Power BI dashboards, KPI analysis, and data visualization.<br><br>⚡ Fun fact<br><br>I enjoy turning raw, messy data into clean dashboards and meaningful insights 📊
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Yash%20Sonwane&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Data%20Analyst%20|%20AI%20Enthusiast&descAlignY=58&descAlign=50"/>
+</p>
 
+<h1 align="center">Hi 👋, I'm Yash Sonwane</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yash-sonwane-88a92923a) 
+<h3 align="center">
+🚀 Backend Developer | 📊 Data Analyst | 🤖 AI & Automation Enthusiast
+</h3>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YashSonwane11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=YashSonwane11&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YashSonwane11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YashSonwane11&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/YashSonwane11?style=for-the-badge&color=blue"/>
+  <img src="https://img.shields.io/github/stars/YashSonwane11?style=for-the-badge&color=yellow"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=YashSonwane11&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+# 🌟 About Me
+
+🔭 I’m currently working on **Automated Business Metric Engine**
+
+🌱 I’m currently learning **Spring Boot, Advanced SQL, Power BI DAX & Data Engineering**
+
+💡 Passionate about **Backend Systems, Automation & Data Analytics**
+
+🎯 Focused on building **scalable systems and impactful dashboards**
+
+⚡ Fun Fact: I enjoy converting messy raw data into clean insights 📊
+
+📫 Reach me at **yashsonwane438@gmail.com**
+
+---
+
+# 🚀 Current Focus
+
+```yaml
+Backend Development:
+  - Java
+  - JDBC
+  - SQLite
+  - Spring Boot
+
+Data Analytics:
+  - SQL
+  - Power BI
+  - Excel
+  - Python
+
+AI & Automation:
+  - Machine Learning
+  - Data Pipelines
+  - Analytics Automation
+```
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,mysql,sqlite,git,github,linux,vscode,postman&perline=6"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JDBC-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Analytics-00C7B7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation-blueviolet?style=for-the-badge"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YashSonwane11&show_icons=true&theme=radical&hide_border=true&rank_icon=github"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSonwane11&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+# 🎮 GitHub Level Card
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashSonwane11&theme=redical&hide_border=true&area=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YashSonwane11&theme=radical"/>
+</p>
+
+<p align="center">
+  <b>🎯 Player: Yash Sonwane | Mission: Build, Learn, Commit 🚀</b>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YashSonwane11&theme=radical&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/yash-sonwane-88a92923a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:yashsonwane438@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/YashSonwane11">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 💡 Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+</p>
