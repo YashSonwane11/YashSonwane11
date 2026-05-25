@@ -77,8 +77,8 @@ AI & Automation:
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YashSonwane11&show_icons=true&theme=radical&hide_border=true&rank_icon=github"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSonwane11&layout=compact&theme=radical&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=YashSonwane11&show_icons=true&theme=radical&hide_border=true&rank_icon=github"/>
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YashSonwane11&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
