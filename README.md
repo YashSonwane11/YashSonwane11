@@ -106,6 +106,11 @@ AI & Automation:
 </p>
 
 ---
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YashSonwane11&theme=radical&hide_border=true"/>
+</p>
 
 # 🌐 Connect With Me
 
